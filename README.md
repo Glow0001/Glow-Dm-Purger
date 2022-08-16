@@ -1,7 +1,7 @@
 # 💎 Glow Dm Purger 💎
 
 
-# 💲 Glow Spammer is an fast webhook spammer! 💲
+# 💲 Glow Spammer is the fastes dm purger! 💲
 
 
 # ⭐ Don't Forget To Star If You Like It. ⭐
