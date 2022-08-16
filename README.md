@@ -10,3 +10,5 @@
 # 🚀 Glow Dm Purger setup 🚀
 
 ### this is an self bot so use it at own risk
+
+1. Install [node.js](https://nodejs.org/en/download/) and add it to path
