@@ -149,7 +149,7 @@ function clear(authToken, authorId, channelId) {
 
 client.on('ready', async () => {
     console.clear()
-    process.title = `luna purger  | logged into account > ${client.user.username}`
+    process.title = `glow purger  | logged into account > ${client.user.username}`
     printClear()
 })
 
